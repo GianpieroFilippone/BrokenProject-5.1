@@ -1,0 +1,3 @@
+[submodule "liparibank-workspace"]
+    path = liparibank-workspace
+    url = ./liparibank-workspace
